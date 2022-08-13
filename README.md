@@ -1,6 +1,6 @@
 Seu Portfólio Web deve ter as seguintes informações:
 
-- Olá pessoas me cha Irlan Reis
+- Olá pessoas me chamo Irlan Reis
 
 -Sou um pouco reservado com o publico mas é sobre isso rsrs.
 
