@@ -1,0 +1,56 @@
+h1 {
+    font-family:Gill Sans,sans-serif;
+    text-decoration:none;
+    text-align: center;
+}
+h3{
+    background-color: #0566d4;
+}
+a:link {
+    text-decoration: none;
+    font-size: 20px 100%;
+}
+    .button {
+border:  100% solid #3f8fd4;
+background-color: #0091f2;
+background: -webkit-gradient (linear, top left,bottom left , #3e409c, to(#0091f2));
+background: -webkit-linear-gradient(top, #3e409c, #0091f2);
+background: -moz-linear-gradient(top, #3e409c, #0091f2);
+background: -ms-linear-gradient(top, #3e409c, #0091f2);
+background: -o-linear-gradient(top, #3e409c, #0091f2);
+fill: 15px 30px;
+-webkit-border-radius: 30px;
+-moz-border-radius: 30px;
+border-radius: 30px;
+-webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+-moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+box-shadow: rgba(0,0,0,1) 0 1px 0;
+text-shadow: rgba(0,0,0,.4) 0 1px 0;
+color:white;
+font-size: 40px 100%;
+font-family: Helvetica, Arial, Sans-Serif;
+text-decoration: none;
+
+    }
+.button:hover {
+border-top-color: #1c80c2;
+background-color: #0566d4;
+color: #ccc;
+}
+.button:active {
+border-top-color: #0099ff;
+background-color: #0099ff;
+}
+p, ul, h3 {
+    font-size: 19px;
+    color:white;
+}
+body{
+background-color:#04183d;
+
+}
+p {
+    background-color: #0566d4;
+    font-weight: bold;
+    
+}
