@@ -1,0 +1,49 @@
+h1 {
+    font-family:Gill Sans,sans-serif;
+    text-decoration:none;
+    text-align: center;
+}
+a:link {
+    text-decoration: none;
+    font-size: 20px 100%;
+}
+
+p, ul, h3 {
+    font-size: 19px;
+    color:white;
+}
+body{
+background-color:#04183d;
+
+}
+p {
+    font-weight: bold;
+    position: absolute;
+    left: 326px;
+  
+}
+.img-caixa{
+    height: 300px;
+}
+div{
+    position: relative;
+}
+#img-perfil{
+    float: left;
+    height: 280px;
+    padding: 10px;
+    background-color: darkorange;
+}
+
+a:visited{
+    color: white;
+}
+a:hover{
+    color: orange;
+    font-weight: bold;
+    font-size: 20px;
+    font-family:monospace;
+}
+ul li:nth-child(odd){
+    background-color:orange;
+}
